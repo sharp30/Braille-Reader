@@ -9,4 +9,4 @@ Run the `braille.py` with the picture name.
 
 -add images
 
-# Example
+## Example
